@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asilllium-frontend/static/css/main.06c41593.css",
+    "main.js": "/asilllium-frontend/static/js/main.525b4744.js",
+    "static/js/453.96a364d3.chunk.js": "/asilllium-frontend/static/js/453.96a364d3.chunk.js",
+    "index.html": "/asilllium-frontend/index.html",
+    "main.06c41593.css.map": "/asilllium-frontend/static/css/main.06c41593.css.map",
+    "main.525b4744.js.map": "/asilllium-frontend/static/js/main.525b4744.js.map",
+    "453.96a364d3.chunk.js.map": "/asilllium-frontend/static/js/453.96a364d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c41593.css",
+    "static/js/main.525b4744.js"
+  ]
+}
